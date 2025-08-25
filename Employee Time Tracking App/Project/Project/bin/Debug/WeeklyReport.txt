@@ -1,0 +1,5 @@
+Employee ID: 102
+Total Hours: 0,00
+Overtime Hours: 0,00
+Late Arrivals: 1
+
